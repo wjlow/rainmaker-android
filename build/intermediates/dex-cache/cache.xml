@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-2a6555b6368ac99400949e5982dee6a7112bd260.jar" />
+    </item>
+    <item
+        jar="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/pre-dexed/debug/classes-8a796c6547e29839d07a2cb38f5373d25c462206.jar" />
+    </item>
+    <item
+        jar="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/pre-dexed/debug/classes-ff0022f5b7855b662a9c734d478c1f5c084ec4a7.jar" />
+    </item>
+    <item
+        jar="/Users/jack.low/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-c30f818e1fda71194011750b6e89ef1caac7383a.jar" />
+    </item>
+    <item
+        jar="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/jack.low/AndroidStudioProjects/Rainmaker/Application/build/intermediates/pre-dexed/debug/classes-792b38da5680997dfe213ba77da73df4569a3f76.jar" />
+    </item>
+
+</items>
